@@ -1,0 +1,21 @@
+Q1:
+Finance Lending clients: 22
+Blockchain clients: 25
+
+Q2: 
+Industry with Highest Renewal Rate: Gaming
+
+Q3:
+Average Inflation Rate at Renewal: 4.31%
+
+Q4:
+Median Amount Paid Each Year:
++----+-------------+
+|year|median_amount|
++----+-------------+
+|2018|        235.7|
+|2019|        348.1|
+|2020|        284.5|
+|2021|        300.7|
+|2022|        285.0|
++----+-------------+
